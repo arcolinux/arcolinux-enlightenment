@@ -1,4 +1,2 @@
-nm-applet.desktop
-variety.desktop
 arcolinux-welcome-app.desktop
-picom -b --config ~/.config/icewm/picom.conf &
+
